@@ -36,11 +36,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/alesmenzel/sql-builder',
+          editUrl: 'https://github.com/alesmenzel/sql-builder/documentation-website',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/alesmenzel/sql-builder',
+          editUrl: 'https://github.com/alesmenzel/sql-builder/documentation-website',
           routeBasePath: 'changelog',
           path: './changelog',
         },
@@ -69,9 +69,7 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'mainSidebar',
-          // TODO: Does not work...
-          // sidebarId: 'apiSidebar',
+          sidebarId: 'apiSidebar',
           position: 'left',
           label: 'API',
         },
