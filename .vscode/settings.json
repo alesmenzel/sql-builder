@@ -2,5 +2,8 @@
   "[typescript]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/ales.menzel/dev/sql-builder/.github/workflows/deploy.yml"
   }
 }
