@@ -16,7 +16,6 @@ defaults:
 
 jobs:
   build:
-    needs: setup
     name: 'Build Documentation'
     runs-on: ubuntu-latest
     steps:
