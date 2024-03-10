@@ -51,6 +51,16 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      'docusaurus-plugin-typedoc',
+      {
+        entryPoints: ['../src/sql-builder.ts'],
+        tsconfig: '../tsconfig.json',
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',

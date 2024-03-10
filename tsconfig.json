@@ -4,5 +4,6 @@
     "module": "CommonJS",
     "outDir": "dist",
     "sourceMap": true
-  }
+  },
+  "include": ["src"]
 }

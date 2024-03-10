@@ -1,16 +1,5 @@
 import { describe, it, expect } from '@jest/globals'
-import {
-  Builder,
-  WhereBuilder,
-  fn,
-  col,
-  raw,
-  OpOr,
-  OpNot,
-  OpAny,
-  OpAnd,
-  Op,
-} from '../../sql-builder'
+import { Builder, WhereBuilder, fn, col, raw, OpOr, OpNot, OpAny, OpAnd, Op } from '../sql-builder'
 
 describe('where-builder', () => {
   it.each([
