@@ -34,6 +34,12 @@ jobs:
       - name: Build docusaurus
         run: npm run build
 
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "build/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
