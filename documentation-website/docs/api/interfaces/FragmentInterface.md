@@ -30,4 +30,4 @@ custom_edit_url: null
 
 #### Defined in
 
-src/sql-builder.ts:333
+[src/sql-builder.ts:333](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L333)

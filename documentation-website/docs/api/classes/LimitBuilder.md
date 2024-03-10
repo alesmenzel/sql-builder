@@ -39,7 +39,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-src/sql-builder.ts:993
+[src/sql-builder.ts:993](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L993)
 
 ## Properties
 
@@ -49,7 +49,7 @@ src/sql-builder.ts:993
 
 #### Defined in
 
-src/sql-builder.ts:991
+[src/sql-builder.ts:991](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L991)
 
 ___
 
@@ -63,7 +63,7 @@ BuilderBase.builder
 
 #### Defined in
 
-src/sql-builder.ts:49
+[src/sql-builder.ts:49](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L49)
 
 ## Methods
 
@@ -85,7 +85,7 @@ BuilderBase.clone
 
 #### Defined in
 
-src/sql-builder.ts:1012
+[src/sql-builder.ts:1012](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1012)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-src/sql-builder.ts:998
+[src/sql-builder.ts:998](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L998)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-src/sql-builder.ts:1002
+[src/sql-builder.ts:1002](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1002)
 
 ___
 
@@ -148,4 +148,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-src/sql-builder.ts:1007
+[src/sql-builder.ts:1007](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1007)

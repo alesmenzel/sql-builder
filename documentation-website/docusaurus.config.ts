@@ -57,6 +57,8 @@ const config: Config = {
       {
         entryPoints: ['../src/sql-builder.ts'],
         tsconfig: '../tsconfig.json',
+        sidebar: { collapsed: false },
+        exclude: '**/*+(test).ts',
       },
     ],
   ],

@@ -3,7 +3,10 @@
     "target": "ESNext",
     "module": "CommonJS",
     "outDir": "dist",
-    "sourceMap": true
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "dist/declarations"
   },
-  "include": ["src"]
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.test.ts"]
 }

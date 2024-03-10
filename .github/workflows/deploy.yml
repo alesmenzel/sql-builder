@@ -10,10 +10,6 @@ on:
 permissions:
   contents: write
 
-defaults:
-  run:
-    working-directory: documentation-website
-
 jobs:
   build:
     name: 'Build Documentation'
@@ -30,14 +26,16 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        working-directory: documentation-website
 
       - name: Build docusaurus
         run: npm run build
+        working-directory: documentation-website
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: ./documentation-website/build
 
 
   deploy:
