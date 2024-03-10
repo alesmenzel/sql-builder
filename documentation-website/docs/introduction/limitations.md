@@ -22,6 +22,7 @@ Here is a list of features that are currently unsupported (but could be added in
 
 - [ ] 🌶️ `SelectBuilder` currently supports the most used clauses.
   - [ ] ⭐️⭐️⭐️ Add `HAVING`
+  - [ ] ⭐️⭐️⭐️ Add `RETURNIGN`
   - [ ] ⭐️⭐️ Add `FOR UPDATE`.
   - [ ] ⭐️ Add `WINDOW`
   - [ ] ⭐️ Add `FETCH`
