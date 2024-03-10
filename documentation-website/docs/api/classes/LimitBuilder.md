@@ -39,7 +39,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:993](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L993)
+[src/builders/limit-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L10)
 
 ## Properties
 
@@ -49,7 +49,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:991](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L991)
+[src/builders/limit-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L8)
 
 ___
 
@@ -63,7 +63,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/sql-builder.ts:49](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L49)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -85,7 +85,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/sql-builder.ts:1012](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1012)
+[src/builders/limit-builder.ts:29](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L29)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:998](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L998)
+[src/builders/limit-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L15)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:1002](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1002)
+[src/builders/limit-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L19)
 
 ___
 
@@ -148,4 +148,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/sql-builder.ts:1007](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1007)
+[src/builders/limit-builder.ts:24](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L24)

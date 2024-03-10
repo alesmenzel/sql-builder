@@ -27,7 +27,7 @@ custom_edit_url: null
 | Name | Type |
 | :------ | :------ |
 | `builder` | [`Builder`](Builder.md) |
-| `input` | `OrderByInput` |
+| `input` | [`OrderByInput`](../modules.md#orderbyinput) |
 
 #### Returns
 
@@ -39,17 +39,17 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:956](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L956)
+[src/builders/order-by-builder.ts:21](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L21)
 
 ## Properties
 
 ### \_input
 
-• **\_input**: `OrderByInputNormalized`
+• **\_input**: [`OrderByInputNormalized`](../modules.md#orderbyinputnormalized)
 
 #### Defined in
 
-[src/sql-builder.ts:954](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L954)
+[src/builders/order-by-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L19)
 
 ___
 
@@ -63,7 +63,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/sql-builder.ts:49](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L49)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -85,7 +85,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/sql-builder.ts:985](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L985)
+[src/builders/order-by-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L50)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:961](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L961)
+[src/builders/order-by-builder.ts:26](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L26)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:965](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L965)
+[src/builders/order-by-builder.ts:30](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L30)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:969](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L969)
+[src/builders/order-by-builder.ts:34](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L34)
 
 ___
 
@@ -168,4 +168,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/sql-builder.ts:974](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L974)
+[src/builders/order-by-builder.ts:39](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L39)

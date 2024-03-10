@@ -28,7 +28,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/sql-builder.ts:351](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L351)
+[src/fragments/raw-fragment.ts:7](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L7)
 
 ## Properties
 
@@ -38,7 +38,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/sql-builder.ts:349](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L349)
+[src/fragments/raw-fragment.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L5)
 
 ## Methods
 
@@ -62,4 +62,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/sql-builder.ts:355](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L355)
+[src/fragments/raw-fragment.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L11)

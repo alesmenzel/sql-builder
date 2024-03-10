@@ -24,7 +24,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/sql-builder.ts:1062](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1062)
+[src/constants.ts:47](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L47)
 
 ## Properties
 
@@ -34,4 +34,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/sql-builder.ts:1060](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1060)
+[src/constants.ts:45](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L45)

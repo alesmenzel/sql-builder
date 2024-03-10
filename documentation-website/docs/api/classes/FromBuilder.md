@@ -40,7 +40,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:227](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L227)
+[src/builders/from-builder.ts:23](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L23)
 
 ## Properties
 
@@ -50,7 +50,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:224](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L224)
+[src/builders/from-builder.ts:20](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L20)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:225](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L225)
+[src/builders/from-builder.ts:21](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L21)
 
 ___
 
@@ -74,7 +74,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/sql-builder.ts:49](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L49)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -102,7 +102,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/sql-builder.ts:287](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L287)
+[src/builders/from-builder.ts:83](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L83)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `groupByInput` | `GroupByInput` |
+| `groupByInput` | [`GroupByInput`](../modules.md#groupbyinput) |
 
 #### Returns
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:238](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L238)
+[src/builders/from-builder.ts:34](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L34)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:242](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L242)
+[src/builders/from-builder.ts:38](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L38)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:250](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L250)
+[src/builders/from-builder.ts:46](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L46)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:254](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L254)
+[src/builders/from-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L50)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `orderByInput` | `OrderByInput` |
+| `orderByInput` | [`OrderByInput`](../modules.md#orderbyinput) |
 
 #### Returns
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:246](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L246)
+[src/builders/from-builder.ts:42](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L42)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:258](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L258)
+[src/builders/from-builder.ts:54](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L54)
 
 ___
 
@@ -239,7 +239,7 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/sql-builder.ts:263](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L263)
+[src/builders/from-builder.ts:59](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L59)
 
 ___
 
@@ -259,4 +259,4 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:234](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L234)
+[src/builders/from-builder.ts:30](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L30)

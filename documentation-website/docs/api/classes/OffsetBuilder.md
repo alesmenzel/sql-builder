@@ -40,7 +40,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:1021](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1021)
+[src/builders/offset-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L11)
 
 ## Properties
 
@@ -50,7 +50,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/sql-builder.ts:1019](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1019)
+[src/builders/offset-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L9)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:1018](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1018)
+[src/builders/offset-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L8)
 
 ___
 
@@ -74,7 +74,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/sql-builder.ts:49](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L49)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -102,7 +102,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/sql-builder.ts:1037](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1037)
+[src/builders/offset-builder.ts:27](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L27)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:1027](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1027)
+[src/builders/offset-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L17)
 
 ___
 
@@ -144,4 +144,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/sql-builder.ts:1032](https://github.com/alesmenzel/sql-builder/blob/017ca38/src/sql-builder.ts#L1032)
+[src/builders/offset-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L22)
