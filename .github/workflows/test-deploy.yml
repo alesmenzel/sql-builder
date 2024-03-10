@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./documentation-website
+    working-directory: documentation-website
 
 jobs:
   test-deploy:

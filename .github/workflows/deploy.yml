@@ -12,32 +12,33 @@ permissions:
 
 defaults:
   run:
-    working-directory: ./documentation-website
+    working-directory: documentation-website
 
 jobs:
-  setup:
-    name: 'Checkout, Setup Node, Install dependencies'
-    runs-on: ubuntu-latest
-    steps:
-        - uses: actions/checkout@v4
-          with:
-            fetch-depth: 0
-
-        - uses: actions/setup-node@v4
-          with:
-            node-version: 20
-            cache: npm
-
-        - name: Install dependencies
-          run: npm ci
-
   build:
     needs: setup
     name: 'Build Documentation'
     runs-on: ubuntu-latest
     steps:
-        - name: Build docusaurus
-          run: npm run build
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build docusaurus
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./build
 
 
   deploy:
@@ -51,16 +52,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./build
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Output URL
         env:
