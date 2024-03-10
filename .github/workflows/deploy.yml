@@ -10,6 +10,11 @@ on:
 permissions:
   contents: write
 
+defaults:
+  run:
+    shell: bash
+    working-directory: ./documentation-website
+
 jobs:
   deploy:
     name: Deploy to GitHub Pages
