@@ -1,8 +1,6 @@
 ---
 id: "RawFragment"
 title: "Class: RawFragment"
-sidebar_label: "RawFragment"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -28,7 +26,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/raw-fragment.ts:7](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L7)
+[src/fragments/raw-fragment.ts:7](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/raw-fragment.ts#L7)
 
 ## Properties
 
@@ -38,7 +36,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/raw-fragment.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L5)
+[src/fragments/raw-fragment.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/raw-fragment.ts#L5)
 
 ## Methods
 
@@ -62,4 +60,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/raw-fragment.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/raw-fragment.ts#L11)
+[src/fragments/raw-fragment.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/raw-fragment.ts#L11)

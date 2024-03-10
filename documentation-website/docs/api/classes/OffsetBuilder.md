@@ -1,8 +1,6 @@
 ---
 id: "OffsetBuilder"
 title: "Class: OffsetBuilder"
-sidebar_label: "OffsetBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -40,7 +38,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/offset-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L11)
+[src/builders/offset-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L11)
 
 ## Properties
 
@@ -50,7 +48,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/offset-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L9)
+[src/builders/offset-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L9)
 
 ___
 
@@ -60,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/builders/offset-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L8)
+[src/builders/offset-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L8)
 
 ___
 
@@ -74,7 +72,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -102,7 +100,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/offset-builder.ts:27](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L27)
+[src/builders/offset-builder.ts:27](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L27)
 
 ___
 
@@ -122,7 +120,7 @@ ___
 
 #### Defined in
 
-[src/builders/offset-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L17)
+[src/builders/offset-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L17)
 
 ___
 
@@ -144,4 +142,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/offset-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/offset-builder.ts#L22)
+[src/builders/offset-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/offset-builder.ts#L22)

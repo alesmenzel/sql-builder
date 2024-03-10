@@ -1,8 +1,6 @@
 ---
 id: "modules"
 title: "@alesmenzel/sql-builder"
-sidebar_label: "Exports"
-sidebar_position: 0.5
 custom_edit_url: null
 ---
 
@@ -46,7 +44,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/builders/builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/builder.ts#L9)
+[src/builders/builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/builder.ts#L9)
 
 ___
 
@@ -56,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/builders/from-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L16)
+[src/builders/from-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/from-builder.ts#L16)
 
 ___
 
@@ -66,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/builders/from-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L17)
+[src/builders/from-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/from-builder.ts#L17)
 
 ___
 
@@ -83,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/builders/from-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L15)
+[src/builders/from-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/from-builder.ts#L15)
 
 ___
 
@@ -101,7 +99,7 @@ ___
 
 #### Defined in
 
-[src/builders/from-builder.ts:13](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L13)
+[src/builders/from-builder.ts:13](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/from-builder.ts#L13)
 
 ___
 
@@ -125,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/builders/from-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/from-builder.ts#L14)
+[src/builders/from-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/from-builder.ts#L14)
 
 ___
 
@@ -135,7 +133,7 @@ ___
 
 #### Defined in
 
-[src/fragments/function-fragment.ts:7](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/function-fragment.ts#L7)
+[src/fragments/function-fragment.ts:7](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/function-fragment.ts#L7)
 
 ___
 
@@ -152,7 +150,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L11)
+[src/builders/group-by-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L11)
 
 ___
 
@@ -162,7 +160,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L10)
+[src/builders/group-by-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L10)
 
 ___
 
@@ -183,7 +181,7 @@ ___
 
 #### Defined in
 
-[src/builders/join-builder.ts:6](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L6)
+[src/builders/join-builder.ts:6](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L6)
 
 ___
 
@@ -193,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/builders/order-by-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L15)
+[src/builders/order-by-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/order-by-builder.ts#L15)
 
 ___
 
@@ -203,7 +201,7 @@ ___
 
 #### Defined in
 
-[src/builders/order-by-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L16)
+[src/builders/order-by-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/order-by-builder.ts#L16)
 
 ___
 
@@ -222,7 +220,7 @@ ___
 
 #### Defined in
 
-[src/builders/order-by-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/order-by-builder.ts#L9)
+[src/builders/order-by-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/order-by-builder.ts#L9)
 
 ___
 
@@ -232,7 +230,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L10)
+[src/builders/select-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L10)
 
 ___
 
@@ -246,7 +244,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L11)
+[src/builders/select-builder.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L11)
 
 ___
 
@@ -264,7 +262,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L9)
+[src/builders/select-builder.ts:9](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L9)
 
 ___
 
@@ -280,7 +278,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:58](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L58)
+[src/builders/where-builder.ts:58](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L58)
 
 ___
 
@@ -296,7 +294,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:120](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L120)
+[src/builders/where-builder.ts:120](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L120)
 
 ___
 
@@ -306,7 +304,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:109](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L109)
+[src/builders/where-builder.ts:109](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L109)
 
 ___
 
@@ -323,7 +321,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:104](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L104)
+[src/builders/where-builder.ts:104](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L104)
 
 ___
 
@@ -333,7 +331,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:102](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L102)
+[src/builders/where-builder.ts:102](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L102)
 
 ___
 
@@ -343,7 +341,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:147](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L147)
+[src/builders/where-builder.ts:147](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L147)
 
 ___
 
@@ -362,7 +360,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:151](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L151)
+[src/builders/where-builder.ts:151](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L151)
 
 ___
 
@@ -372,7 +370,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:156](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L156)
+[src/builders/where-builder.ts:156](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L156)
 
 ___
 
@@ -382,7 +380,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:97](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L97)
+[src/builders/where-builder.ts:97](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L97)
 
 ___
 
@@ -392,7 +390,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:141](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L141)
+[src/builders/where-builder.ts:141](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L141)
 
 ___
 
@@ -402,7 +400,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:53](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L53)
+[src/builders/where-builder.ts:53](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L53)
 
 ___
 
@@ -412,7 +410,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L50)
+[src/builders/where-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L50)
 
 ___
 
@@ -422,7 +420,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:112](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L112)
+[src/builders/where-builder.ts:112](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L112)
 
 ___
 
@@ -432,7 +430,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:117](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L117)
+[src/builders/where-builder.ts:117](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L117)
 
 ___
 
@@ -448,7 +446,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:64](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L64)
+[src/builders/where-builder.ts:64](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L64)
 
 ___
 
@@ -464,7 +462,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:121](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L121)
+[src/builders/where-builder.ts:121](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L121)
 
 ___
 
@@ -478,7 +476,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:51](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L51)
+[src/builders/where-builder.ts:51](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L51)
 
 ___
 
@@ -496,7 +494,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:73](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L73)
+[src/builders/where-builder.ts:73](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L73)
 
 ___
 
@@ -506,7 +504,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:79](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L79)
+[src/builders/where-builder.ts:79](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L79)
 
 ___
 
@@ -516,7 +514,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:68](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L68)
+[src/builders/where-builder.ts:68](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L68)
 
 ___
 
@@ -533,7 +531,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:123](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L123)
+[src/builders/where-builder.ts:123](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L123)
 
 ___
 
@@ -543,7 +541,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:81](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L81)
+[src/builders/where-builder.ts:81](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L81)
 
 ___
 
@@ -553,7 +551,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:125](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L125)
+[src/builders/where-builder.ts:125](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L125)
 
 ___
 
@@ -569,7 +567,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:55](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L55)
+[src/builders/where-builder.ts:55](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L55)
 
 ___
 
@@ -585,7 +583,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:119](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L119)
+[src/builders/where-builder.ts:119](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L119)
 
 ___
 
@@ -595,7 +593,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:62](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L62)
+[src/builders/where-builder.ts:62](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L62)
 
 ___
 
@@ -605,7 +603,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:39](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L39)
+[src/builders/where-builder.ts:39](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L39)
 
 ___
 
@@ -615,7 +613,7 @@ ___
 
 #### Defined in
 
-[src/builders/where-builder.ts:38](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/where-builder.ts#L38)
+[src/builders/where-builder.ts:38](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/where-builder.ts#L38)
 
 ___
 
@@ -634,7 +632,7 @@ ___
 
 #### Defined in
 
-[src/builders/with-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L8)
+[src/builders/with-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L8)
 
 ___
 
@@ -644,7 +642,7 @@ ___
 
 #### Defined in
 
-[src/builders/with-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L14)
+[src/builders/with-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L14)
 
 ## Variables
 
@@ -654,7 +652,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:1](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L1)
+[src/constants.ts:1](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L1)
 
 ___
 
@@ -686,7 +684,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:21](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L21)
+[src/constants.ts:21](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L21)
 
 ___
 
@@ -696,7 +694,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L8)
+[src/constants.ts:8](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L8)
 
 ___
 
@@ -706,7 +704,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:14](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L14)
+[src/constants.ts:14](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L14)
 
 ___
 
@@ -716,7 +714,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:6](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L6)
+[src/constants.ts:6](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L6)
 
 ___
 
@@ -726,7 +724,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L19)
+[src/constants.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L19)
 
 ___
 
@@ -736,7 +734,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:3](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L3)
+[src/constants.ts:3](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L3)
 
 ___
 
@@ -746,7 +744,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:9](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L9)
+[src/constants.ts:9](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L9)
 
 ___
 
@@ -756,7 +754,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L10)
+[src/constants.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L10)
 
 ___
 
@@ -766,7 +764,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:18](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L18)
+[src/constants.ts:18](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L18)
 
 ___
 
@@ -776,7 +774,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L5)
+[src/constants.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L5)
 
 ___
 
@@ -786,7 +784,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L17)
+[src/constants.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L17)
 
 ___
 
@@ -796,7 +794,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L11)
+[src/constants.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L11)
 
 ___
 
@@ -806,7 +804,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:12](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L12)
+[src/constants.ts:12](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L12)
 
 ___
 
@@ -816,7 +814,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:4](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L4)
+[src/constants.ts:4](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L4)
 
 ___
 
@@ -826,7 +824,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:15](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L15)
+[src/constants.ts:15](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L15)
 
 ___
 
@@ -836,7 +834,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:13](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L13)
+[src/constants.ts:13](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L13)
 
 ___
 
@@ -846,7 +844,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:16](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L16)
+[src/constants.ts:16](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L16)
 
 ___
 
@@ -856,7 +854,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:7](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L7)
+[src/constants.ts:7](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L7)
 
 ___
 
@@ -866,7 +864,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:42](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L42)
+[src/constants.ts:42](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L42)
 
 ___
 
@@ -876,7 +874,7 @@ ___
 
 #### Defined in
 
-[src/constants.ts:41](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L41)
+[src/constants.ts:41](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L41)
 
 ## Functions
 
@@ -897,7 +895,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:28](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L28)
+[src/utils.ts:28](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L28)
 
 ___
 
@@ -917,7 +915,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:18](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/sql-builder.ts#L18)
+[src/sql-builder.ts:18](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/sql-builder.ts#L18)
 
 ___
 
@@ -938,7 +936,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:32](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L32)
+[src/utils.ts:32](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L32)
 
 ___
 
@@ -959,7 +957,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:11](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L11)
+[src/utils.ts:11](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L11)
 
 ___
 
@@ -979,7 +977,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:3](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L3)
+[src/utils.ts:3](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L3)
 
 ___
 
@@ -1000,7 +998,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/sql-builder.ts#L14)
+[src/sql-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/sql-builder.ts#L14)
 
 ___
 
@@ -1020,7 +1018,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:18](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L18)
+[src/utils.ts:18](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L18)
 
 ___
 
@@ -1040,7 +1038,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:39](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L39)
+[src/utils.ts:39](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L39)
 
 ___
 
@@ -1061,7 +1059,7 @@ ___
 
 #### Defined in
 
-[src/utils.ts:23](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/utils.ts#L23)
+[src/utils.ts:23](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/utils.ts#L23)
 
 ___
 
@@ -1075,7 +1073,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:6](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/sql-builder.ts#L6)
+[src/sql-builder.ts:6](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/sql-builder.ts#L6)
 
 ___
 
@@ -1095,7 +1093,7 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/sql-builder.ts#L22)
+[src/sql-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/sql-builder.ts#L22)
 
 ___
 
@@ -1115,4 +1113,4 @@ ___
 
 #### Defined in
 
-[src/sql-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/sql-builder.ts#L10)
+[src/sql-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/sql-builder.ts#L10)

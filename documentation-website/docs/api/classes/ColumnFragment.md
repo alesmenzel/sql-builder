@@ -1,8 +1,6 @@
 ---
 id: "ColumnFragment"
 title: "Class: ColumnFragment"
-sidebar_label: "ColumnFragment"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -28,7 +26,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/column-fragment.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/column-fragment.ts#L8)
+[src/fragments/column-fragment.ts:8](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/column-fragment.ts#L8)
 
 ## Properties
 
@@ -38,7 +36,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/column-fragment.ts:6](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/column-fragment.ts#L6)
+[src/fragments/column-fragment.ts:6](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/column-fragment.ts#L6)
 
 ## Methods
 
@@ -62,4 +60,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/column-fragment.ts:12](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/column-fragment.ts#L12)
+[src/fragments/column-fragment.ts:12](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/column-fragment.ts#L12)

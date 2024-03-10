@@ -1,8 +1,6 @@
 ---
 id: "GroupByBuilder"
 title: "Class: GroupByBuilder"
-sidebar_label: "GroupByBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -39,7 +37,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L19)
+[src/builders/group-by-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L19)
 
 ## Properties
 
@@ -49,7 +47,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L17)
+[src/builders/group-by-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L17)
 
 ___
 
@@ -63,7 +61,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -91,7 +89,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L50)
+[src/builders/group-by-builder.ts:50](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L50)
 
 ___
 
@@ -105,7 +103,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:24](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L24)
+[src/builders/group-by-builder.ts:24](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L24)
 
 ___
 
@@ -125,7 +123,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L32)
+[src/builders/group-by-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L32)
 
 ___
 
@@ -146,7 +144,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:36](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L36)
+[src/builders/group-by-builder.ts:36](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L36)
 
 ___
 
@@ -166,7 +164,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L28)
+[src/builders/group-by-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L28)
 
 ___
 
@@ -186,7 +184,7 @@ ___
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:40](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L40)
+[src/builders/group-by-builder.ts:40](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L40)
 
 ___
 
@@ -208,4 +206,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/group-by-builder.ts:45](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/group-by-builder.ts#L45)
+[src/builders/group-by-builder.ts:45](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/group-by-builder.ts#L45)

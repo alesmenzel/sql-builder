@@ -1,8 +1,6 @@
 ---
 id: "FragmentInterface"
 title: "Interface: FragmentInterface"
-sidebar_label: "FragmentInterface"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -30,4 +28,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/fragment-types.ts:4](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/fragment-types.ts#L4)
+[src/fragments/fragment-types.ts:4](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/fragment-types.ts#L4)

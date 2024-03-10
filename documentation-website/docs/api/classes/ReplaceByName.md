@@ -1,8 +1,6 @@
 ---
 id: "ReplaceByName"
 title: "Class: ReplaceByName"
-sidebar_label: "ReplaceByName"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -24,7 +22,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/constants.ts:47](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L47)
+[src/constants.ts:47](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L47)
 
 ## Properties
 
@@ -34,4 +32,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/constants.ts:45](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/constants.ts#L45)
+[src/constants.ts:45](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/constants.ts#L45)

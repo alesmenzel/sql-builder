@@ -1,6 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer'
 import type { Config } from '@docusaurus/types'
 import type * as Preset from '@docusaurus/preset-classic'
+import { type PluginOptions as PluginTypeDocOptions } from 'docusaurus-plugin-typedoc/dist/types'
 
 const config: Config = {
   title: 'SQL Query Builder',
@@ -57,9 +58,16 @@ const config: Config = {
       {
         entryPoints: ['../src/sql-builder.ts'],
         tsconfig: '../tsconfig.json',
-        sidebar: { collapsed: false },
+        sidebar: {
+          categoryLabel: 'API',
+          position: null,
+          collapsed: false,
+          autoConfiguration: false,
+        },
         exclude: '**/*+(test).ts',
-      },
+        // TODO: Update API Readme
+        // readme: 'introduction/into.md',
+      } satisfies Partial<PluginTypeDocOptions> & { tsconfig: string; exclude: string },
     ],
   ],
 

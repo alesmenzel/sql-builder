@@ -1,8 +1,6 @@
 ---
 id: "BuilderError"
 title: "Class: BuilderError"
-sidebar_label: "BuilderError"
-sidebar_position: 0
 custom_edit_url: null
 ---
 

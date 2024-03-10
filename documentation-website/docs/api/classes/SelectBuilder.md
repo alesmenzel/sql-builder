@@ -1,8 +1,6 @@
 ---
 id: "SelectBuilder"
 title: "Class: SelectBuilder"
-sidebar_label: "SelectBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -40,7 +38,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/select-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L19)
+[src/builders/select-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L19)
 
 ## Properties
 
@@ -50,7 +48,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/select-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L16)
+[src/builders/select-builder.ts:16](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L16)
 
 ___
 
@@ -60,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L17)
+[src/builders/select-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L17)
 
 ___
 
@@ -74,7 +72,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -102,7 +100,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/select-builder.ts:54](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L54)
+[src/builders/select-builder.ts:54](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L54)
 
 ___
 
@@ -123,7 +121,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:33](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L33)
+[src/builders/select-builder.ts:33](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L33)
 
 ___
 
@@ -143,7 +141,7 @@ ___
 
 #### Defined in
 
-[src/builders/select-builder.ts:37](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L37)
+[src/builders/select-builder.ts:37](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L37)
 
 ___
 
@@ -165,4 +163,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/select-builder.ts:42](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/select-builder.ts#L42)
+[src/builders/select-builder.ts:42](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/select-builder.ts#L42)

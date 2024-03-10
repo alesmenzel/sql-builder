@@ -1,8 +1,6 @@
 ---
 id: "JoinBuilder"
 title: "Class: JoinBuilder"
-sidebar_label: "JoinBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -38,7 +36,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/join-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L28)
+[src/builders/join-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L28)
 
 ## Properties
 
@@ -48,7 +46,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/join-builder.ts:26](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L26)
+[src/builders/join-builder.ts:26](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L26)
 
 ___
 
@@ -62,7 +60,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -90,7 +88,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/join-builder.ts:55](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L55)
+[src/builders/join-builder.ts:55](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L55)
 
 ___
 
@@ -112,7 +110,7 @@ ___
 
 #### Defined in
 
-[src/builders/join-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L32)
+[src/builders/join-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L32)
 
 ___
 
@@ -134,4 +132,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/join-builder.ts:39](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/join-builder.ts#L39)
+[src/builders/join-builder.ts:39](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/join-builder.ts#L39)

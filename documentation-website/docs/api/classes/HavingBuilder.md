@@ -1,8 +1,6 @@
 ---
 id: "HavingBuilder"
 title: "Class: HavingBuilder"
-sidebar_label: "HavingBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -38,7 +36,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/having-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L10)
+[src/builders/having-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L10)
 
 ## Properties
 
@@ -52,7 +50,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -80,7 +78,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/having-builder.ts:35](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L35)
+[src/builders/having-builder.ts:36](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L36)
 
 ___
 
@@ -100,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/builders/having-builder.ts:18](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L18)
+[src/builders/having-builder.ts:18](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L18)
 
 ___
 
@@ -121,7 +119,7 @@ ___
 
 #### Defined in
 
-[src/builders/having-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L22)
+[src/builders/having-builder.ts:22](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L22)
 
 ___
 
@@ -141,7 +139,7 @@ ___
 
 #### Defined in
 
-[src/builders/having-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L14)
+[src/builders/having-builder.ts:14](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L14)
 
 ___
 
@@ -161,7 +159,7 @@ ___
 
 #### Defined in
 
-[src/builders/having-builder.ts:26](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L26)
+[src/builders/having-builder.ts:26](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L26)
 
 ___
 
@@ -183,4 +181,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/having-builder.ts:31](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/having-builder.ts#L31)
+[src/builders/having-builder.ts:31](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/having-builder.ts#L31)

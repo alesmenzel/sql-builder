@@ -1,8 +1,6 @@
 ---
 id: "FunctionFragment"
 title: "Class: FunctionFragment"
-sidebar_label: "FunctionFragment"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -29,7 +27,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/function-fragment.ts:21](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/function-fragment.ts#L21)
+[src/fragments/function-fragment.ts:21](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/function-fragment.ts#L21)
 
 ## Properties
 
@@ -39,7 +37,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/fragments/function-fragment.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/function-fragment.ts#L19)
+[src/fragments/function-fragment.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/function-fragment.ts#L19)
 
 ___
 
@@ -49,7 +47,7 @@ ___
 
 #### Defined in
 
-[src/fragments/function-fragment.ts:18](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/function-fragment.ts#L18)
+[src/fragments/function-fragment.ts:18](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/function-fragment.ts#L18)
 
 ## Methods
 
@@ -73,4 +71,4 @@ ___
 
 #### Defined in
 
-[src/fragments/function-fragment.ts:26](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/fragments/function-fragment.ts#L26)
+[src/fragments/function-fragment.ts:26](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/fragments/function-fragment.ts#L26)

@@ -1,8 +1,6 @@
 ---
 id: "LimitBuilder"
 title: "Class: LimitBuilder"
-sidebar_label: "LimitBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -39,7 +37,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/limit-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L10)
+[src/builders/limit-builder.ts:10](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L10)
 
 ## Properties
 
@@ -49,7 +47,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/limit-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L8)
+[src/builders/limit-builder.ts:8](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L8)
 
 ___
 
@@ -63,7 +61,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -85,7 +83,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/limit-builder.ts:29](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L29)
+[src/builders/limit-builder.ts:29](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L29)
 
 ___
 
@@ -106,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/builders/limit-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L15)
+[src/builders/limit-builder.ts:15](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L15)
 
 ___
 
@@ -126,7 +124,7 @@ ___
 
 #### Defined in
 
-[src/builders/limit-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L19)
+[src/builders/limit-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L19)
 
 ___
 
@@ -148,4 +146,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/limit-builder.ts:24](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/limit-builder.ts#L24)
+[src/builders/limit-builder.ts:24](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/limit-builder.ts#L24)

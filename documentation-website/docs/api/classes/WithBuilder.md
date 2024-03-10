@@ -1,8 +1,6 @@
 ---
 id: "WithBuilder"
 title: "Class: WithBuilder"
-sidebar_label: "WithBuilder"
-sidebar_position: 0
 custom_edit_url: null
 ---
 
@@ -39,7 +37,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/with-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L19)
+[src/builders/with-builder.ts:19](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L19)
 
 ## Properties
 
@@ -49,7 +47,7 @@ BuilderBase.constructor
 
 #### Defined in
 
-[src/builders/with-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L17)
+[src/builders/with-builder.ts:17](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L17)
 
 ___
 
@@ -63,7 +61,7 @@ BuilderBase.builder
 
 #### Defined in
 
-[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builder-base.ts#L5)
+[src/builder-base.ts:5](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builder-base.ts#L5)
 
 ## Methods
 
@@ -91,7 +89,7 @@ BuilderBase.clone
 
 #### Defined in
 
-[src/builders/with-builder.ts:51](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L51)
+[src/builders/with-builder.ts:51](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L51)
 
 ___
 
@@ -111,7 +109,7 @@ ___
 
 #### Defined in
 
-[src/builders/with-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L32)
+[src/builders/with-builder.ts:32](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L32)
 
 ___
 
@@ -131,7 +129,7 @@ ___
 
 #### Defined in
 
-[src/builders/with-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L28)
+[src/builders/with-builder.ts:28](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L28)
 
 ___
 
@@ -153,4 +151,4 @@ BuilderBase.toSQL
 
 #### Defined in
 
-[src/builders/with-builder.ts:37](https://github.com/alesmenzel/sql-builder/blob/e62707c/src/builders/with-builder.ts#L37)
+[src/builders/with-builder.ts:37](https://github.com/alesmenzel/sql-builder/blob/0850cdd/src/builders/with-builder.ts#L37)
